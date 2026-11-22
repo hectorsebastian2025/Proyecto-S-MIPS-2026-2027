@@ -49,7 +49,7 @@
   </toolbar>
   <circuit name="Board">
     <a name="circuit" val="Board"/>
-    <a name="simulationFrequency" val="1.0"/>
+    <a name="simulationFrequency" val="128.0"/>
     <comp lib="0" loc="(120,160)" name="Clock">
       <a name="appearance" val="classic"/>
       <a name="label" val="Reloj"/>
